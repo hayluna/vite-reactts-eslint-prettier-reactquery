@@ -1,4 +1,4 @@
-# vite-reactts-eslint-prettier
-vite, react, typescript, eslint, prettier
+# vite-reactts-eslint-prettier-reactquery
+vite, react, typescript, eslint, prettier, react-query
 
-dev : `yarn start`
+development : `yarn start`
